@@ -24,7 +24,7 @@ Below is a preview showcasing some features :
         </div>
     <div style="flex: 33.33%; text-align: center;">
         <p>Frequency Result</p>
-        <img src="/src/frequency1.png" alt="Middle" width="90%"/>
+        <img src="https://github.com/bambadij/sales_data_collected_2019/blob/main/scr/frequency1.png" alt="Middle" width="90%"/>
         </div>
 </div>
 
