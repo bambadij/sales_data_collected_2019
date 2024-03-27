@@ -20,7 +20,7 @@ Below is a preview showcasing some features :
     </div>
     <div style="flex: 33.33%; text-align: center;">
         <p>View Sale Month</p>
-             <img src="[src/month1.png](https://github.com/bambadij/sales_data_collected_2019/blob/main/scr/month1.png)" alt="Top" width="90%"/>
+             <img src="https://github.com/bambadij/sales_data_collected_2019/blob/main/scr/month1.png" alt="Top" width="90%"/>
         </div>
     <div style="flex: 33.33%; text-align: center;">
         <p>Frequency Result</p>
